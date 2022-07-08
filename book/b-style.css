@@ -1,0 +1,26 @@
+body{
+     font-family:"Tahoma";
+     font-size:13px;
+     }
+     .home-icon{
+     width:25px;
+     height:25px;
+     }
+     h2{
+     font-family:"Tahoma";
+     color:#00CC66;
+     }
+     a{
+     text-decoration:none;
+     }
+     a:visited{
+     color:#0000FF;
+     }
+     .hr-line{
+     width: 900px;
+     border:1px solid #FF00FF;
+     }
+     .book-img{
+     width: 80px;
+     height: 100px;
+     }
